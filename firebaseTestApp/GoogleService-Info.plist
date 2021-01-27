@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>133134851540-4tgrlq2al5rsjkn30i4tjk0nt5k7e9na.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.133134851540-4tgrlq2al5rsjkn30i4tjk0nt5k7e9na</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDD58OKdpXrbqWNNuAbMidRr6EOKo36NXY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>133134851540</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.coolfirebaseApp.firebaseTestApp</string>
+	<key>PROJECT_ID</key>
+	<string>gblesson8project</string>
+	<key>STORAGE_BUCKET</key>
+	<string>gblesson8project.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:133134851540:ios:f18eed14f9c74022154a41</string>
+</dict>
+</plist>
